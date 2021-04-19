@@ -30,9 +30,27 @@ resume :
       url     : https://www.its4u.lu/
       desc    : |
                 Développement d'applications Angular, React et AngularJS
+                - Création d'une application de gestion de commissions pour CK Group, utilisation d'Angular (Typescript) / SCSS / Bootstrap, architecture complête de la solution.
+                - Création d'une application de gestion des voyages de service pour la PGD, utilisation d'Angular (Typescript) / SCSS / Bootstrap, architecture complête de la solution.
+                - Création d'une application de gestion des paiements instantanés  pour la BIL, utilisation de React / Bootstrap.
+                - Développement de la partie Frontend d'une application de vente pour Tango en Angular (Typescript) / SCSS / Material Design, développement collaboratif.
+                - Développement sur la partie Frontend d'une logiciel de facturation en ligne pour MySaam en Angular (Typescript) / SCSS / Material Design, développement collaboratif.
+                - Développement sur la partie Frontend d'une application de gestion de petites annonces pour Wortimmo en React / Redux / SCSS / Bootstrap, développement collaboratif.
                 Développement d'API en PHP (Laravel / Lumen) 
+                - Création d'une API CRUD pour la gestion de commissions pour CK Group, utilisation de Lumen (PHP) et de MySQL en base de données.
+                - Création d'une API CRUD pour la gestion des voyages de service pour la PGD, utilisation de Lumen (PHP) et de Oracle / PostGreSQL en base de données.
+                - Développement sur le site web de Wortimmo avec Symfony
                 Configuration de serveurs Web sous linux RHEL 
+                - Pour CK Group, création de l'achitecture logicielle Centos + Apache + PHPFpm + MySQL, d'un système de déploiement automatisé (front + back) et administration du serveur.
+                - Pour PGD, création d'un système de déploiement automatisé (front + back) et administration du serveur.
                 Intégration, développement et administration de solutions CRM (SugarCRM, Edeal) pour différents clients
+                - Installation, configuration et intégration de SugarCRM pour plusieurs clients, solution utilisant SideCar, HandleBarJS, BackBoneJS (frontend) et Zend Framework (backend).
+                - Création et administration d'une architecture logicielle complête pour Tango pour leurs serveurs CRM.
+                - Installation et configuration d'ElasticSearch.
+                Utilisation de différentes méthodologies / outils
+                - Utilisation de Git et Gitflow.
+                - Développement avec la méthodologie Agile.
+                - Utilisation de Jira / Confluence.
       skills  : Angular, React, PHP, MySQL, Oracle, CentOS, Java
 
     - name    : Analyste développeur & Architecte technique
@@ -42,8 +60,12 @@ resume :
       address : Luxembourg
       url     : 
       desc    : |
-                En charge de l'architecture et du développement d'une application de gestion pour la société Brunata-Metrona utilisant Adobe AIR/Flex, Java, MSSQL.
-                Création du site Web du Fond Belval utilisant du PHP, Html, CSS et une base de données MySQL.
+                En charge de l'architecture et du développement d'une application de gestion pour la société Brunata-Metrona.
+                - Frontend réalisé en AIR/Flex.
+                - Solution CRUD Backend en Java et MSSQL. 
+                Création du site Web du Fond Belval.
+                -	Réalisation du système d’administration et du front end du site.
+                - Création de l’aspect graphique du site.
       skills  : Air/Flex, PHP, MsSQL, MySQL, Java
 
     - name    : Analyste développeur & Architecte technique
@@ -53,8 +75,12 @@ resume :
       address : Luxembourg
       url     : 
       desc    : |
-                En charge de l'architecture et du développement d'une application de gestion pour la société Brunata-Metrona utilisant Adobe AIR/Flex, Java, MSSQL.
-                Création du site Web du Fond Belval utilisant du PHP, Html, CSS et une base de données MySQL.
+                En charge de l'architecture et du développement d'une application de gestion pour la société Brunata-Metrona.
+                - Frontend réalisé en AIR/Flex.
+                - Solution CRUD Backend en Java et MSSQL. 
+                Création du site Web du Fond Belval.
+                -	Réalisation du système d’administration et du front end du site.
+                - Création de l’aspect graphique du site.
       skills  : Air/Flex, PHP, MsSQL, MySQL, Java
 
     - name    : Analyste développeur
@@ -64,8 +90,16 @@ resume :
       address : 2B Rue Nicolas Bové, Luxembourg 1253, LU
       url     : https://www.intrasoft-intl.com/
       desc    : |
-                En charge du développement, de l'administration et du maintien du portail d'entreprise de la société Intrasoft International écrit en Flex 3.5 BalzeDS, Java et une base de données MSSQL. 
+                En charge du développement, de l'administration et du maintien du portail d'entreprise de la société Intrasoft International écrit en Flex 3.5 BalzeDS, Java et une base de données MSSQL.
+                - Gestion d’offre et de contrats (clients et employées).
+                - Système de vacances pour les employées
+                - Plusieurs architectures paramétrables pour déployer des applications de type workflow rapidement.
                 Création d’une application de gestion par workflow des directives de vol de EASA (European Aviation Safety Agency) en PHP avec base de données Oracle.
+                - Analyse et récupération de l’existant (Oracle / PHP).
+                - Création des interfaces d’administration et de visualisation.
+                Maintenance et débogage du system de sondage EVIMP2 (« Evaluation and long-term impact assessment of industrial research »).
+                - Export et traitement de résultat de la base de donnée MSSQL.
+                - Débogage du système ASP.net / C#.
       skills  : Air/Flex, PHP, MsSQL, Java
 
     - name    : Développeur

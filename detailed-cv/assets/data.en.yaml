@@ -39,14 +39,14 @@ resume :
                 PHP API (Laravel / Lumen / Symfony) development.
                 - Creation of a Crud API for seller's agent commission management for CK group, using Lumen (PHP) as backend language and Mysql for db.
                 - Creation of a Crud API for service trip for PGD, using Lumen (PHP) as backend language using Oracle / PostgreSQL for db.
-                - Developement on the wortimmo website using Symfony.
+                - Developement on the Wortimmo website using Symfony.
                 Linux RHEL Web servers configuration.
-                - For CK Group, creation of stack on Centos + Apache + PHPFpm, complete software architecture deployment (front + back) and configuration of server.
+                - For CK Group, creation of stack on Centos + Apache + PHPFpm + MySQL, complete software architecture deployment (front + back) and configuration of server.
                 - For PGD, complete software architecture deployment (front + back) and configuration of server.
                 Integration, development and management of CRM solutions (SugarCRM, Edeal) for various clients.
                 - Installation, configuration of SugarCRM for various client using SideCarJS, HandleBarJS, BackBoneJS (frontend).
                 - Creation of CentOS complete stack and administration for Tango.
-                - Instalation and configuration of ElasticSearch.
+                - Installation and configuration of ElasticSearch.
                 Using of versionning software and various methodology / tools.
                 - Usage of Git and the Gitflow methodology.
                 - Agile development.
@@ -63,7 +63,9 @@ resume :
                 In charge of the architecture and implementation of the internal asset management application of Brunata-Metrona.
                 - Frontend using Adobe AIR/Flex
                 - Backend CRUD solution using Java and MSSQL. 
-                Creation of the Fond Belval Website using PHP, Html, CSS and MySQL database.
+                Creation of the Fond Belval website
+                - Developement of website administration using PHP
+                - Developement of Frontend graphical aspect
       skills  : Air/Flex, PHP, MsSQL, MySQL, Java
 
     - name    : Analyst Developer & Technical Architect
@@ -76,7 +78,9 @@ resume :
                 In charge of the architecture and implementation of the internal asset management application of Brunata-Metrona.
                 - Frontend using Adobe AIR/Flex
                 - Backend CRUD solution using Java and MSSQL. 
-                Creation of the Fond Belval Website using PHP, Html, CSS and MySQL database.
+                Creation of the Fond Belval website
+                - Developement of website administration using PHP
+                - Developement of Frontend graphical aspect
       skills  : Air/Flex, PHP, MsSQL, MySQL, Java
 
     - name    : Analyst Developer
@@ -87,7 +91,15 @@ resume :
       url     : https://www.intrasoft-intl.com/
       desc    : |
                 In charge of the internal portal development written in flex 3.5 using blazeDS, Java and MSSQL database.
-                Creation of a workflow application to manage acceptation of airworthiness directives on behalf of EASA (European Aviation Safety Agency). Application written in PHP5 with Oracle database.
+                - Management of offers and contracts
+                - Holidays management
+                - Customizable interfaces and rapid implementation of workflow applications
+                Creation of a workflow application to manage acceptation of airworthiness directives on behalf of EASA (European Aviation Safety Agency). 
+                - Recuperation of existing application written in PHP5 with Oracle database.
+                - Creation of the frontend in Adobe Flex 
+                Maintenance and debbugging of EVIMP2 (Evaluation and long-term impact assessment of industrial research).
+                - Export and treatment of results of the MsSQL db
+                - Debugging of C# ASP.net system
       skills  : Air/Flex, PHP, MsSQL, Java
 
     - name    : Developer
